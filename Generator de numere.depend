@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617873982 source:d:\info\codeblocks instal folder\code\generator de numere\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
