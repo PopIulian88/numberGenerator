@@ -106,8 +106,8 @@ int main()
 {
     int i;
     long long a, b, gen;
-    cout << "\n      GENERATOR DE NUMERE";
-    cout << "\n\n  Acest program alege la intamplare\n un numar intre: ";
+    cout << "\n      NUMBER GENERATOR";
+    cout << "\n\n  This program chooses randomly\n a number between: ";
     genMat();
     while(true)
     {
@@ -121,6 +121,6 @@ int main()
             cout << '\n';
             i++;
         }
-        cout << "\n   Alege alte 2 numere: ";
+        cout << "\n   Choose another 2 numbers: ";
     }
 }
